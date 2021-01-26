@@ -10,4 +10,4 @@
 <br/>
 <img align="left" alt="0x37U Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_border=true&count_private=true" />
 
-[facebook]: https://www.facebook.com/0x37U
+[facebook]: https://www.facebook.com/Amr.v7
