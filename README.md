@@ -10,6 +10,6 @@
 <br/>
 
 [![0x37U GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_title=true&theme=dark)](https://github.com/0x37U)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x37U&layout=compact&theme=dark)](https://github.com/xElkomy/0x37U)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x37U&layout=compact&theme=dark)](https://github.com/0x37U)
 
 [facebook]: https://www.facebook.com/Amr.v7
