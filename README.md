@@ -8,6 +8,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br/>
 <br/>
-<img align="left" alt="0x37U Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_border=true&count_private=true" />
+[![0x37U GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_title=true&theme=dark)](https://github.com/0x37U)
 
 [facebook]: https://www.facebook.com/Amr.v7
