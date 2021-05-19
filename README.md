@@ -12,6 +12,6 @@
 [![0x37U GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_title=true&theme=dark)](https://github.com/0x37U)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x37U&layout=compact&theme=dark)](https://github.com/0x37U)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Amr.v7?color=1DA1F0&logo=facebook&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Amr.v7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Amr.v7?color=1DA1F0&logo=facebook&style=for-the-badge)](https://www.facebook.com/Amr.v7)
 
 [facebook]: https://www.facebook.com/Amr.v7
