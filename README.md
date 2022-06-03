@@ -8,7 +8,10 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br/>
 <br/>
-
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/0x37U/count.svg" />
+</p>
 [![0x37U GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x37U&show_icons=true&hide_title=true&theme=dark)](https://github.com/0x37U)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x37U&layout=compact&theme=dark)](https://github.com/0x37U)
 
